@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **mahmoud23mostafa@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1DbuHkoKQ91Gil8hv6e8U8R056hgICQlm/view?usp=sharing](https://drive.google.com/file/d/1yODeKGu8GYOz1PoZwOseWuhfmXs6sR8F/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1DbuHkoKQ91Gil8hv6e8U8R056hgICQlm/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
