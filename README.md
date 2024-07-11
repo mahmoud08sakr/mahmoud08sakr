@@ -1,10 +1,9 @@
 
 <h1 align="center">Hi 👋, im Mahmoud Sakr</h1>
-<h3 align="center">A passionate frontend developer from Egypt</h3>
+<h3 align="center">A passionate full stack web developer from Egypt</h3>
 <img align ="right" alt ="coding" width ="400" src="https://media3.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.webp?cid=790b7611ujcna35vjz2bkzjpr5xa1vjcwtpyx8bp8qfeex66&ep=v1_gifs_search&rid=giphy.webp&ct=g">
-- 🌱 I’m currently learning **backend (Node.js)**
      
-- 💬 Ask me about **Frontend (React)**
+- 💬 Ask me about **Frontend (React) nodeJS(express) **
 
 - 📫 How to reach me **mahmoud23mostafa@gmail.com**
 
